@@ -1,0 +1,31 @@
+_repo: The-Tragedy-of-Macbeth_1129
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: World Library
+gutenberg_issued: '1997-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1129'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Regicides -- Drama'
+- !lcsh 'Macbeth, King of Scotland, active 11th century -- Drama'
+- !lcsh 'Scotland -- Kings and rulers -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PR'
+- GITenberg
+title: The Tragedy of Macbeth
+url: http://www.gutenberg.org/ebooks/1129
